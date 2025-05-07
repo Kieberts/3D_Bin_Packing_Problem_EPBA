@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Extrempunkt-basierter Ansatz
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Sebastian
+    family-names: Kiebert
+    email: Sebastian@kiebert.com
+repository-code: 'https://github.com/Kieberts/3D_Bin_Packing_EBPA'
